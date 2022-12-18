@@ -1,2 +1,2 @@
 # FastApi
-Criação de uma Api com FastApi e SqlAlchemy
+ Um backend com FastApi, SqlAlchemy e Mysql.
